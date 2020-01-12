@@ -4,8 +4,12 @@
  *
  */
 public class RunCalculator {
+	
+
 
 	public static void main(String... args) {
+		
+
 		Calculator myApp = new Calculator();
 		IntegerMath addition = (a, b) -> a + b;
 		IntegerMath subtraction = (a, b) -> a - b;
